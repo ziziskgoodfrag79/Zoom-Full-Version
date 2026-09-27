@@ -239,4 +239,4 @@ This repository serves as the official landing page for Zoom Workplace. The soft
 **Get the most recent version of Zoom Workplace today!** | Updated 2023
 
 ---
-**Last updated:** 2026-09-27 07:49:14 UTC
+**Last updated:** 2026-09-27 13:40:56 UTC
